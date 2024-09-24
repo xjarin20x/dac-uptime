@@ -5,8 +5,6 @@ repo: dac-uptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Ricelytics
-    url: https://ricelytics.philrice.gov.ph
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
